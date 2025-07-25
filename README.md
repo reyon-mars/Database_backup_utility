@@ -3,4 +3,4 @@ I'm building a simple utility to back up database data safely. It connects to a 
 
 
 # link to the github repository
-https://github.com/reyon-mars/Database_backup_utility.git
+https://roadmap.sh/projects/database-backup-utility
