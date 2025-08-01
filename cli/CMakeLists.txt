@@ -1,0 +1,2 @@
+add_executable(Database_backup_utility main.cpp)
+target_link_libraries(Database_backup_utility PRIVATE core db_drivers middleware config)
